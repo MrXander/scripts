@@ -14,3 +14,5 @@ Prepares your local env for k8s. Scripts installs:
 8. kubectl aliases
 9 kubetail
 
+## load_k8s_config_from_rancher.sh
+Load all available configs for from rancher and set to kubectl
